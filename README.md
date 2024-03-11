@@ -24,7 +24,7 @@ Buy Ktsy wiki directory:
 * Open the project root directory, cd into app and run the command pipenv install. Then cd in to react-app and npm install to install the required packages
 * Create a .env file similar to the .env example located in teh app folder
 * Create the database in the app by running pipenv run flask db migrate, flask upgrade, and flask seed all.
-* Then enter the cammand pipenv flask run in the app folde, and npm start in the react-app folder.
+* Then enter the command pipenv flask run in the app folder, and npm start in the react-app folder.
 
 ## Future Features
 * Adding categories for the products to have extra ways to filter the products in this page. 
